@@ -8,10 +8,6 @@
 #include "World/SG_Grid.h"
 #include "Framework/SG_Pawn.h"
 
-main()
-{
-    __debugbreak();
-}
 
 void ASG_GameMode::StartPlay() 
 {
